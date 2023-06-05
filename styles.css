@@ -3,17 +3,18 @@ body {
   background-color: #283149;
 }
 
-h1,.play {
+h1,.action {
   font-size: 5rem;
   color: #DBEDF3;
   font-family: "Arvo", cursive;
   text-shadow: 3px 0 #DA0463;
 
 }
-.play{
+.action{
   background-color: cadetblue;
   border-radius: 15px;
   border: 10px solid #404B69;
+  margin: 2cm;
 }
 footer {
   color: #DBEDF3;

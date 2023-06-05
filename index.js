@@ -59,4 +59,6 @@ document.querySelector(".play").addEventListener("click",function(){
     playSoundWithDelay(0); 
 })
 
+document.querySelector(".startover").addEventListener("click",()=>allsoundsArray=[] );
+
 
